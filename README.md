@@ -9,10 +9,6 @@
 
 ***
 
-## Current learning goals : 
-
-Rust 🦀
-
 ### 📱 Published Android games on Google Play Store: 
 
 <img align="left" width="64" height="64" src="https://user-images.githubusercontent.com/2546901/180612999-9ae10b68-d62d-468c-ba9d-f1a4c411f3de.png">
